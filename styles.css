@@ -1,0 +1,31 @@
+
+body {
+   font-family: cursive;
+    background-color: #f0f0f0;
+}
+
+header, footer {
+    background-color: #333333ca;
+    color: #fff;
+    padding: 10px 0;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+body{
+    text-align: center;
+
+}
+.first{
+    margin: 0 auto; 
+   max-width: 600px;
+   text-align: left;
+   width: 50%;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
